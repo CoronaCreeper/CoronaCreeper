@@ -7,4 +7,4 @@
 	<img align="left" src="https://github-readme-stats.vercel.app/api?username=CoronaCreeper&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&bg_color=0C1116&text_color=fff&icon_color=3A90F6&theme=material-palenight" />
 </a>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/338075554937044994)](https://discord.com/users/338075554937044994)
+<img align="right" src="[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/338075554937044994)](https://discord.com/users/717337516830752788)"/>
