@@ -12,3 +12,5 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/717337516830752788)](https://discord.com/users/717337516830752788)
 
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=eq3xa2vckc9rb1n5suwczd0us)
+
