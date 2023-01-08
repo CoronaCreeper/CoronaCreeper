@@ -14,7 +14,7 @@
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=eq3xa2vckc9rb1n5suwczd0us)
 
-[![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f.svg)](https://wakatime.com/@c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f)
+[![Total programming](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f.svg)](https://wakatime.com/@c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f)
 
 ## Portfolio
 
