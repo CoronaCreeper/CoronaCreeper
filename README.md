@@ -29,3 +29,5 @@
 - [Infekcja zombie Afikk](https://www.youtube.com/watch?v=GHMzx7iYfxM) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/d254bc18-6395-4a04-add4-ff57bd59e319.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/d254bc18-6395-4a04-add4-ff57bd59e319)
 
 - [Spin SMP](https://www.youtube.com/watch?v=U5ibMihtRCY) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/c00a16fe-15d0-4c5c-8eed-a8b5ed8bad0a.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/c00a16fe-15d0-4c5c-8eed-a8b5ed8bad0a)
+
+- [Apokalipsa Zombie Piter](https://www.youtube.com/watch?v=i4XZ9MBmcKk) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/7c2b4111-3710-422c-a067-997e8de1154b.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/7c2b4111-3710-422c-a067-997e8de1154b)
