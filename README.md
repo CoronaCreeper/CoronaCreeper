@@ -51,3 +51,5 @@
 - [Spin SMP](https://www.youtube.com/watch?v=U5ibMihtRCY) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/c00a16fe-15d0-4c5c-8eed-a8b5ed8bad0a.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/c00a16fe-15d0-4c5c-8eed-a8b5ed8bad0a)
 
 - [Cywilizacja](https://www.youtube.com/watch?v=-41vUzSJG6E) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/acca93d1-123f-49f6-a5f8-6962c55663c1.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/acca93d1-123f-49f6-a5f8-6962c55663c1)
+
+- [Wybieranie](https://www.youtube.com/watch?v=010OY876Ebk) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/9e72a150-f8b9-4661-89ff-8bdd50e0b60b.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/9e72a150-f8b9-4661-89ff-8bdd50e0b60b)
