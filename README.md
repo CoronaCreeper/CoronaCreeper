@@ -64,3 +64,5 @@
 - [Europejskie Igrzyska](https://www.youtube.com/watch?v=BsbBkCZgwTU) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/1bbbebfd-504f-41d3-858a-cac1cf317bec.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/1bbbebfd-504f-41d3-858a-cac1cf317bec)
   
 - [Podziemne Igrzyska Śmierci](https://youtu.be/iMbWXuybyKs) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/018dd818-6034-4196-a902-0ca4dd8bb79f.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/018dd818-6034-4196-a902-0ca4dd8bb79f)
+
+- [Finał Igrzysk Śmierci](https://www.youtube.com/watch?v=h0bEDw2qrHo) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/018e33bd-9204-4cd8-ab2b-51b9501ed6fd.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/018e33bd-9204-4cd8-ab2b-51b9501ed6fd)
