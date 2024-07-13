@@ -36,10 +36,6 @@
 
 - [System weryfikacji kont](https://www.youtube.com/@Sagi1) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/529eaa7e-ac8e-48ab-a67a-c62ddcaf9945.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/529eaa7e-ac8e-48ab-a67a-c62ddcaf9945)
 
-#### Afikk
-
-- [Infekcja zombie](https://www.youtube.com/watch?v=GHMzx7iYfxM) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/d254bc18-6395-4a04-add4-ff57bd59e319.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/d254bc18-6395-4a04-add4-ff57bd59e319)
-
 #### Piter
 
 - [Apokalipsa Zombie](https://www.youtube.com/watch?v=i4XZ9MBmcKk) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/7c2b4111-3710-422c-a067-997e8de1154b.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/7c2b4111-3710-422c-a067-997e8de1154b)
