@@ -66,3 +66,5 @@
 - [Finał Igrzysk Śmierci](https://www.youtube.com/watch?v=h0bEDw2qrHo) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/018e33bd-9204-4cd8-ab2b-51b9501ed6fd.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/018e33bd-9204-4cd8-ab2b-51b9501ed6fd)
   
 - [Kliknij Przycisk - Wygraj 1000PLN](https://www.youtube.com/watch?v=uM8spsKNZ88) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/1c9e7cf2-6bd2-46f9-9669-689d232404e3.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/1c9e7cf2-6bd2-46f9-9669-689d232404e3)
+
+- [Historyczne Igrzyska](https://www.youtube.com/watch?v=XOceQS1m8bs) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/231cecbe-ed25-423d-b645-578d8a33f56c.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/231cecbe-ed25-423d-b645-578d8a33f56c)
