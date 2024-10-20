@@ -70,3 +70,5 @@
 - [Historyczne Igrzyska](https://www.youtube.com/watch?v=XOceQS1m8bs) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/231cecbe-ed25-423d-b645-578d8a33f56c.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/231cecbe-ed25-423d-b645-578d8a33f56c)
 
 - [Ratowanie Świata](https://www.youtube.com/watch?v=kImBy3kieQs) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/0e95dd85-dcff-4bc2-a3c1-03aab3f226e6.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/0e95dd85-dcff-4bc2-a3c1-03aab3f226e6)
+  
+- [Najlepszy Gracz](https://www.youtube.com/watch?v=M6wQIhMG3gk) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/aec89181-63e7-4f78-8b35-58b909187be9.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/aec89181-63e7-4f78-8b35-58b909187be9)
