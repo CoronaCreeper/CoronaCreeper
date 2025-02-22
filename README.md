@@ -74,3 +74,5 @@
 - [Ratowanie Świata](https://www.youtube.com/watch?v=kImBy3kieQs) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/0e95dd85-dcff-4bc2-a3c1-03aab3f226e6.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/0e95dd85-dcff-4bc2-a3c1-03aab3f226e6)
   
 - [Najlepszy Gracz](https://www.youtube.com/watch?v=M6wQIhMG3gk) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/aec89181-63e7-4f78-8b35-58b909187be9.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/aec89181-63e7-4f78-8b35-58b909187be9)
+
+- [Kartel Vs Rebelia](https://www.youtube.com/watch?v=sbSiYgI0YgE) [![wakatime](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/ca035059-c501-47b1-b568-2d24a91e6475.svg)](https://wakatime.com/badge/user/c45fd555-1ec0-4ab5-85fc-a3a4389a1b5f/project/ca035059-c501-47b1-b568-2d24a91e6475)
